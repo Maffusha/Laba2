@@ -1,0 +1,33 @@
+table
+{
+	border-spacing: 0;
+	width: 60%;
+	
+}
+td
+{
+	height: 35px;
+	text-align: center;
+}
+.coll
+{
+	background-color: LightGrey;
+}
+
+.coll2
+{
+	background-color: yellow;
+}
+
+.g 
+{
+	background-color: Green;
+	height: 1px;
+}
+th.vertical
+{
+   text-align: center;
+   writing-mode:tb-rl;
+   text-orientation: upright;
+  
+}
